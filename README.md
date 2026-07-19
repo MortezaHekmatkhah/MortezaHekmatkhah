@@ -14,23 +14,23 @@
 
 ## 👨‍💻 About Me
 
-I'm a developer who enjoys creating web applications, tools, and digital services.
+Hi, I'm Morteza Hekmatkhah, a Web Developer interested in building modern web applications and digital services.
 
-Currently learning and building projects around web development, backend systems, APIs, and cloud services.
+- 🚀 Working on **PixelMod Studio**
+ - 💻 Developing web projects with **PHP,  Python ,JavaScript, HTML, CSS and SQL** 
+- ☁️ Interested in **Cloud Services, APIs and Backend Development** 
+ - 🎮 Also interested in Game Development
 
-### 🔭 Currently working on:
-- 🚀 PixelMod Studio
-- ☁️ Pixel Cloud
-- 🛠 PixelTools
-- 🌐 Web-based applications
-
-### 🌱 Currently learning:
+### 🌱 My Skills :
 - PHP
 - JavaScript
 - Python
 - SQL
 - Git & GitHub
-- Backend Development
+- Css
+- HTML
+- Flask
+
 
 ---
 
