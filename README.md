@@ -21,7 +21,7 @@ Hi, I'm Morteza Hekmatkhah, a Web Developer interested in building modern web ap
 - ☁️ Interested in **Cloud Services, APIs and Backend Development** 
  - 🎮 Also interested in Game Development
 
-### 🌱 My Skills :
+### 💪🏻 My Skills :
 - PHP
 - JavaScript
 - Python
@@ -39,7 +39,7 @@ Hi, I'm Morteza Hekmatkhah, a Web Developer interested in building modern web ap
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,html,css,js,python,mysql" />
+<img src="https://skillicons.dev/icons?i=php,html,css,js,python,mysql,Flask" />
 </p>
 
 ### Tools & Platforms
@@ -67,26 +67,6 @@ A cloud storage and management platform concept for handling files and online se
 ### 🛠 PixelTools
 
 A collection of useful online tools and utilities.
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MortezaHekmatkhah&show_icons=true&theme=catppuccin_mocha&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MortezaHekmatkhah&theme=catppuccin_mocha&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MortezaHekmatkhah&theme=darkhub&no-frame=true&margin-w=10" />
-</p>
 
 ---
 
