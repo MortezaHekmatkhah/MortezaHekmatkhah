@@ -39,7 +39,7 @@ Hi, I'm Morteza Hekmatkhah, a Web Developer interested in building modern web ap
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,html,css,js,python,mysql,Flask" />
+<img src="https://skillicons.dev/icons?i=php,html,css,js,python,mysql" />
 </p>
 
 ### Tools & Platforms
