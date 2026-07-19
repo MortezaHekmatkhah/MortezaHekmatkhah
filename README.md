@@ -1,4 +1,3 @@
-```md
 <h1 align="center">
   Hi 👋, I'm Morteza
 </h1>
@@ -104,4 +103,3 @@ https://github.com/MortezaHekmatkhah
 <p align="center">
 ⭐ Always learning, building, and improving.
 </p>
-```
