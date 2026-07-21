@@ -40,6 +40,17 @@ Hi, I'm Morteza Hekmatkhah, a Web Developer interested in building modern web ap
   <img src="https://skillicons.dev/icons?i=html,css,js,php,python,bash,powershell" />
 </p>
 
+## ⚙️ Backend & Database
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,mysql,apache,nginx" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
+  <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" />
+</p>
+
 ---
 
 ## 🚀 Featured Projects
