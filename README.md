@@ -34,8 +34,6 @@ Hi, I'm Morteza Hekmatkhah, a Web Developer interested in building modern web ap
 
 ---
 
-## 🧰 Tech Stack
-
 ## 💻 Languages
 
 <p align="left">
