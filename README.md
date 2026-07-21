@@ -71,19 +71,6 @@ Hi, I'm **Morteza Hekmatkhah**, a Web Developer passionate about building modern
 
 ---
 
-## 🚀 Featured Projects
-
-### 🟦 PixelMod Studio
-A personal technology project focused on creating web services, tools, and digital products.
-
-### ☁️ Pixel Cloud
-A cloud storage and management platform concept for handling files and online services.
-
-### 🛠️ PixelTools
-A collection of useful online tools and utilities.
-
----
-
 ## 📫 Contact
 
 <p align="left">
