@@ -1,4 +1,3 @@
-```md
 <h1 align="center">
   Hi 👋, I'm Morteza
 </h1>
@@ -102,4 +101,3 @@ A collection of useful online tools and utilities.
 <p align="center">
   ⭐ Always learning, building, and improving.
 </p>
-```
