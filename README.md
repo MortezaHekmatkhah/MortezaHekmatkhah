@@ -21,17 +21,6 @@ Hi, I'm Morteza Hekmatkhah, a Web Developer interested in building modern web ap
 - ☁️ Interested in **Cloud Services, APIs and Backend Development** 
  - 🎮 Also interested in Game Development
 
-### 💪🏻 My Skills :
-- PHP
-- JavaScript
-- Python
-- SQL
-- Git & GitHub
-- Css
-- HTML
-- Flask
-
-
 ---
 
 ## 💻 Languages
