@@ -36,16 +36,10 @@ Hi, I'm Morteza Hekmatkhah, a Web Developer interested in building modern web ap
 
 ## 🧰 Tech Stack
 
-### Languages
+## 💻 Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=php,html,css,js,python,mysql" />
-</p>
-
-### Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,cloudflare,nodejs" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,bash,powershell" />
 </p>
 
 ---
