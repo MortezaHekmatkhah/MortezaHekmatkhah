@@ -16,7 +16,7 @@
 
 Hi, I'm **Morteza Hekmatkhah**, a Web Developer passionate about building modern web applications, cloud services, and digital products.
 
-- 🚀 Working on **PixelMod Studio**
+- 🚀 Working on **Hekmatkhah.ir**
 - 💻 Developing web projects with **PHP, Python, JavaScript, HTML, CSS and SQL**
 - ☁️ Interested in **Cloud Services, APIs and Backend Development**
 - 🎮 Also interested in **Game Development**
@@ -60,24 +60,17 @@ Hi, I'm **Morteza Hekmatkhah**, a Web Developer passionate about building modern
 
 ## 🚀 Featured Projects
 
-### 🟦 PixelMod Studio
+### 🟦 hekmatkhah.ir
 A personal technology project focused on creating modern web services, tools, and digital products.
 
-🔗 https://pixelmod.ir
+🔗 https://hekmatkhah.ir
 
 ---
 
-### ☁️ Pixel Cloud
-A cloud storage and file management platform designed for secure and easy file sharing.
-
-🔗 https://cloud.pixelmod.ir
-
----
-
-### 🛠️ PixelTools
-A collection of useful online tools and utilities for developers and everyday users.
-
-🔗 https://tools.pixelmod.ir
+### 🧠 HK AI
+HK AI is an AI-powered project by Hekmatkhah.
+Built to provide simple, fast, and useful AI tools through a clean and modern experience.
+> **HK AI — Smart. Simple. Yours.**
 
 ---
 
